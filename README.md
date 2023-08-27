@@ -5,4 +5,4 @@ Este repositorio incluye el código de una web personal que servirá como CV y p
 
 El contenido de este repositorio estará visible en formato web en el siguiente [enlace](https://hgomlop.github.io/personal-web/original_template/).
 
-Si has visto este repositorio y quieres una visualizar mi CV en formato pdf, puedes encontrarlo en el siguiente [enlace](https://github.com/hgomlop/personal-web/CVInformatico.pdf)
+Si has visto este repositorio y quieres una visualizar mi CV en formato pdf, puedes encontrarlo en el siguiente [enlace](https://github.com/hgomlop/personal-web/blob/main/CVInformatico.pdf)
