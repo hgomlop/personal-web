@@ -461,7 +461,7 @@ h5 .small,
 h5 small,
 h6 .small,
 h6 small {
-    font-size: 75%
+    font-size: 60%
 }
 .h1,
 h1 {
@@ -482,7 +482,6 @@ h4 {
 .h5,
 h5 {
     font-size: 18px;
-    font-weight: 500;
 }
 .h6,
 h6 {
@@ -5074,4 +5073,11 @@ h2.with-project-number .project-number {
 .list-icons li {
     float: left;
     margin-right: 5px
+}
+
+/* A partir de aquí son clases creadas por mí y que modifico yo y no estaban en el template */
+
+.h5,
+h5{
+    font-weight: 500;
 }
