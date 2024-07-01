@@ -51,7 +51,7 @@
                 <a href="https://www.linkedin.com/in/hector-gomez-a7b705265/" class="fa-icon" title="">
                     <i class="fa fa-linkedin" aria-hidden="true"></i>
                 </a>
-                <a href="https://github.com/hgomlop" class="fa-icon" title="">
+                <a href="https://github.com/hgomlop" title="">
                     <i src="/original_template/assets/images/github_logo.jpg"></i>
             </p>              
           </div>
@@ -60,6 +60,9 @@
     </nav>
   </div>
 </header>
+
+ <!-- A partir de aqui es lo que aparece en la web-->
+
    <div class="card">
     <div class="card-inner">
       <div class="card-front"></div> -->
@@ -97,19 +100,6 @@
   document.addEventListener("DOMContentLoaded", function (event) {
     navbarFixedTopAnimation();
     closeMenuBeforeGoingToPage();
-  });
-</script>
-
- <script>
-  const card = document.querySelector('.card');
-  const cardInner = card.querySelector('.card-inner');
-
-  card.addEventListener('click', function() {
-    if (cardInner.style.transform === 'rotateY(180deg)') {
-      cardInner.style.transform = 'rotateY(0deg)';
-    } else {
-      cardInner.style.transform = 'rotateY(180deg)';
-    }
   });
 </script>
 
