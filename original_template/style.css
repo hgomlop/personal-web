@@ -196,12 +196,14 @@ th {
     background: url('./assets/images/hector.png') center/cover;
 }
 .card-back {
+    background: url('./assets/images/foto\ carnet.jpg') center;
     background-color: #f1f1f1;
     transform: rotateY(180deg);
     display: flex;
     justify-content: center;
     align-items: center;
     text-align: center;
+}
 }
 /*! Source: https://github.com/h5bp/html5-boilerplate/blob/master/src/css/main.css */
 
