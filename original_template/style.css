@@ -174,8 +174,8 @@ th {
     padding: 0
 }
 .card {
-    width: auto;
-    height: auto;
+    width: 85%;
+    height: 85%;
     perspective: 1000px;
     position: relative;
 }
