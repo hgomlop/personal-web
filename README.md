@@ -1,5 +1,5 @@
 # Pagina Web Personal Héctor Gómez
-Buenas, mi nombre es Héctor Gómez. Soy un chico de 21 años de Valencia, España. Actualmente soy estudiante universitario de la UPV, concretamente estudio Ingeniería Informática.  
+Buenas, mi nombre es Héctor Gómez. Soy un chico de 22 años de Valencia, España. Actualmente soy estudiante universitario de la UPV, concretamente estudio Ingeniería Informática.  
 
 Este repositorio incluye el código de una web personal que servirá como CV y porfolio digital con el fin de que la gente pueda conocerme un poco más y así saber en qué he trabajado, mis competencias y conocimientos, así como mi estilo de trabajo.
 
@@ -9,7 +9,7 @@ Si has visto este repositorio y querrias visualizar mi CV en formato pdf, puedes
 
 ---------------------------------------------------------------------------------------------------------
 # Héctor Gómez's Personal Web
-Hi, my name is Hector Gomez. I am a 21 years old guy from Valencia, Spain. Currently, I study Science Computer's Bachelor Degree at UPV, an university in Valencia.
+Hi, my name is Hector Gomez. I am a 22 years old guy from Valencia, Spain. Currently, I study Science Computer's Bachelor Degree at UPV, an university in Valencia.
 
 This repository shows the code from a personal web that I will use as my CV and digital displayer in order to make people know me better, in which projects I am or have been involved and some of my competences and knowlege. Not only that but it will reflect my way of working.
 
